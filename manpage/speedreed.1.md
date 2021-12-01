@@ -17,6 +17,8 @@ With no FILE, or when FILE is -, read standard input (quickly, with style).
 
 **-t** **--time**	Set delay between chars, (default .01)
 
+**-m** **--margin**	Set margins or rather limit of chars before newline (only works with files currently)
+
 **-R** **--reverse**	Reverse the given standard input or file contents
 
 **-V** **--version**	Print version and exit
